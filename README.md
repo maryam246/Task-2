@@ -9,13 +9,13 @@ try,except,raise,finally,for,while,pass,import,from,as,lambda,return,yield,with,
 <br>
 # Namespace and scope in python<br>
 ## Namespace:<br>
-In python namespace is which give the uniqe name to each object(variable,method).<br>
+In python namespace is which give the unique name to each object(variable,method).<br>
 ## Types of namespace:<br>
-Gobal namespace:These names are accessible whole the code.<br>
-loca namespace: Accessible only within the current function.<br>
+Gobal namespace:These names are accessible from whole the code.<br>
+local namespace: Accessible only within the current function.<br>
 and built namespace: They are already present in python.(like print, len, etc).<br>
 ## Scope:<br>
-Scope give the particular rigion from where we can access objects in python.so,we can not access the objects anywhere from code.Accessing is allowed by the scope of object.<br>
+Scope give the particular region from where we can access objects in python.So,we can not access the objects anywhere from code.Accessing is allowed by the scope of object.<br>
 ## Types of scope<br>
 Global scope,local,scope,built-in scope<br>
 <br>
@@ -42,11 +42,11 @@ To check the validity of string 1st we import the keyword library module.This mo
 you can assign values to variables using the assignment operator (=).<br>
 They must start with a letter or an underscore.<br>
 ## In other programming languages,<br>
-the process of assigning values to variables is similar to Python.<br>
+In Other programming language is the process of assigning values to variables is similar to Python.<br>
 but they are different in syntax and rules.<br>
 <br>
 ## How to print without newline in python?<br>
-In Python, you can print without a newline character by using the 'end=" parameter of the print() function.<br>
+In Python, you can print without a newline character by using the (end="") parameter of the print() function.<br>
 By add this '\n' we get the new line so to change this behaviour we use 'end=""' to print without new line.<br>
 ## For example:<br>
 print("Hello, world!", end="") <br>
