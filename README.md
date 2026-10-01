@@ -9,7 +9,7 @@ try,except,raise,finally,for,while,pass,import,from,as,lambda,return,yield,with,
 <br>
 # Namespace and scope in python<br>
 ## Namespace:<br>
-In python namespace is which give the unique name to each object(variable,method).<br>
+A namespace in Python is a mapping between names and objects that gives unique meaning to names and helps avoid naming conflicts.<br>
 ## Types of namespace:<br>
 Gobal namespace:These names are accessible from whole the code.<br>
 local namespace: Accessible only within the current function.<br>
